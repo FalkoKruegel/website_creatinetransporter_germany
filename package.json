@@ -1,0 +1,19 @@
+{
+  "name": "website_creatinetransporter_germany",
+  "version": "0.0.1",
+  "description": "Website Creatinetransporter Germany",
+  "main": "index.js",
+  "authors": {
+    "name": "Falko Krügel",
+    "email": "falkkruege@no.mail"
+  },
+  "repository": "https://github.com/FalkoKruegel/website_creatinetransporter_germany.git/website_creatinetransporter_germany",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
